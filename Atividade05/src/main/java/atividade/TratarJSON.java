@@ -41,7 +41,6 @@ public class TratarJSON {
 
         }
 
-        System.out.println(response.getBody());
         System.out.println(s);
 
     }
